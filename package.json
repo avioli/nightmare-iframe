@@ -1,6 +1,6 @@
 {
   "name": "nightmare-iframe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nightmare plugin for queueing actions within iframes",
   "main": "lib/index",
   "scripts": {
