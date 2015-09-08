@@ -6,6 +6,12 @@
 
 iframeName should be an iframe name attribute (no selectors) or index number, since it uses [switchToFrame](http://phantomjs.org/api/webpage/method/switch-to-frame.html).
 
+## Install
+
+```
+npm install --save nightmare-iframe
+```
+
 ## Examples
 
 ```html
