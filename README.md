@@ -1,6 +1,6 @@
 # nightmare-iframe
 
-[Nightmare](https://github.com/segmentio/nightmare) plugin for Swiftly.com
+[Nightmare](https://github.com/segmentio/nightmare) plugin for for queueing actions within iframes
 
 ### .withFrameName(iframeName, callback(nightmare))
 
